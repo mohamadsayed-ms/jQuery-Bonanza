@@ -1,0 +1,23 @@
+body{
+    font-size: 17px;
+    font-family: arial;
+    background: #f4f4f4;
+    line-height: 1.5em;
+}
+#container{
+    width:90%;
+    margin:auto;
+    padding:10px;
+    text-align: center;
+}
+#btnFadeOut{
+    background-color: black;
+    color: white;
+    padding: 4px;
+    width: 10%;
+}
+#box{
+    background-color: rgb(83, 82, 82);
+    color: white;
+    padding: 20px;
+}
